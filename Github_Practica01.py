@@ -6,3 +6,4 @@ def triangle(): # 2 Pau A
     area = b*h/2
     perimetre = a+b+c
     return area, perimetre
+######################################################################
